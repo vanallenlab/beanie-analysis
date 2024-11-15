@@ -45,7 +45,7 @@ beanie-analysis/
 To reproduce the analysis, re-create the conda environment.
 
 ```
-conda env create --file=beanie_analysis_environment.yaml
+conda env create --file=environment.yml
 ```
 
 #### Reproducing Results
