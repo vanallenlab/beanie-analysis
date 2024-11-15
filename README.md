@@ -6,12 +6,14 @@
 
 This repository contains data and code for reproducing analysis presented in the paper. To use the BEANIE method for your own analysis, please see installation instructions on [this github repo](https://github.com/vanallenlab/beanie). 
 
-Main Findings:
 <details>
     
   <summary>
-      <b>With the growth of clinical cancer single-cell RNA sequencing (scRNA-seq) studies, robust differential expression methods for case/control analyses (e.g., treatment responders vs. non-responders) using gene signatures are pivotal to nominate hypotheses for further investigation. However, current commonly used methods for these analyses present multiple challenges for interpretation: (i) they produce a large number of false positives; (ii) they do not adequately represent the patient-specific hierarchical structure of clinical scRNA-seq data—a problem especially prominent for the tumor compartment due to the higher patient specificity exhibited by tumor cells; and (iii) they do not account for sample-driven confounders that arise from the variability in the number of recovered cells per sample and patient biology. Here, we present a novel nonparametric statistical method, BEANIE, to address these issues for investigating differential expression of gene signatures between clinically relevant groups within scRNA-seq data.</b>
+      <b>Main Findings</b>
   </summary>
+
+With the growth of clinical cancer single-cell RNA sequencing (scRNA-seq) studies, robust differential expression methods for case/control analyses (e.g., treatment responders vs. non-responders) using gene signatures are pivotal to nominate hypotheses for further investigation. However, current commonly used methods for these analyses present multiple challenges for interpretation: (i) they produce a large number of false positives; (ii) they do not adequately represent the patient-specific hierarchical structure of clinical scRNA-seq data—a problem especially prominent for the tumor compartment due to the higher patient specificity exhibited by tumor cells; and (iii) they do not account for sample-driven confounders that arise from the variability in the number of recovered cells per sample and patient biology. Here, we present a novel nonparametric statistical method, BEANIE, to address these issues for investigating differential expression of gene signatures between clinically relevant groups within scRNA-seq data.
+
 
 1. We benchmark BEANIE's performance relative to conventional methods used in differential gene signature expression analysis scRNA-seq datasets using simulated datasets, and find superior sensitivity-specificity trade-off.
 2. We demonstrate BEANIE's use in real-world clinical datasets in breast cancer, lung cancer and melanoma.
