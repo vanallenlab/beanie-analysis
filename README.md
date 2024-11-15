@@ -2,9 +2,6 @@
 
 ## Dissecting tumor cell programs through group biology estimation in clinical single-cell transcriptomics
 
-
-## Paper Title
-
 [Preprint](https://www.biorxiv.org/content/10.1101/2021.10.22.465130v2.full) | [Conference Submission](https://aacrjournals.org/cancerres/article/83/7_Supplement/1120/722439/Abstract-1120-Dissecting-tumor-cell-programs) | [Cite Us](link)
 
 This repository contains data and code for reproducing analysis presented in the paper. To use the BEANIE method for your own analysis, please see installation instructions on [this github repo](https://github.com/vanallenlab/beanie). 
@@ -33,12 +30,6 @@ beanie-analysis/
     		├── brca
     		├── luad
     		└── mel
-	├── data
-    		├── brca
-    		├── lung
-    		├── melanoma
-    		├── resource_utilization
-    		└── signatures
 	├── resource_utilization
     		├── results
     		└── scripts
@@ -57,9 +48,6 @@ To reproduce the analysis, re-create the conda environment.
 conda env create --file=beanie_analysis_environment.yaml
 ```
 
-#### Dataset
-The dataset pre-processing scripts are present in the corresponding directory within the data folder. Raw and processed data is also available for download within the same repository.
-
 #### Reproducing Results
 
 **Simulations** : Run scripts in the following order (replace the location of seed dataset file in create_simulations.py with your own seed data to be used).
@@ -73,7 +61,7 @@ python_benchmark.py
 **Results** : Jupyter notebooks are available in the `analysis` folder, within each cancer type subfolder, to use the raw data, identify tumor states and run analysis. Each folder is organized as follows-
 
 	├── brca
-        ├── inputs --> contains adata.h5ad and metad.csv files for each of the tumor states in the analysis.
+        ├── inputs --> contains data files for each of the tumor states in the analysis.
         ├── supplementary tables --> consolidated results presented in the supplementary tables of the paper.
         ├── outputs --> individual full result files from beanie analysis and benchmark methods.
             ├── ts1_beanie_de.csv --> BEANIE results for DE analysis on tumor state 1.
