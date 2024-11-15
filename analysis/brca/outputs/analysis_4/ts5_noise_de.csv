@@ -1,0 +1,9 @@
+,beanie_pval,direction,robust,excluded_BRCA_10,excluded_BRCA_14,excluded_BRCA_8,excluded_BRCA_19,excluded_BRCA_9,excluded_BRCA_2,excluded_BRCA_6,excluded_BRCA_20
+alphabeta_tcell_1,0.46902,ER+,False,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0
+alphabeta_tcell_2,0.52054,ER+,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+NKT_1,0.14339000000000002,TNBC,False,1.0,1.0,0.0,0.0,1.0,0.0,1.0,13.0
+bcell_1,0.22616,TNBC,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+nk_1,0.85049,TNBC,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+myeloid_1,0.19608,TNBC,False,0.05,1.5499999999999998,4.85,0.0,1.4499999999999995,0.0,0.0,0.05
+myeloid_2,0.6955899999999999,TNBC,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mast_2,0.99675,TNBC,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

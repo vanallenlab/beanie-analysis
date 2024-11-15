@@ -1,0 +1,22 @@
+,,0
+Tumor State 1,BEANIE,1/239
+Tumor State 1,MWU-BH,202/239
+Tumor State 1,MWU-BH-LOOCV,205/239
+Tumor State 1,GLM,200/239
+Tumor State 1,GLM-LOOCV,201/239
+Tumor State 1,Pseudobulk,0/239
+Tumor State 1,Pseudobulk-LOOCV,0/239
+Tumor State 2,BEANIE,1/239
+Tumor State 2,MWU-BH,201/239
+Tumor State 2,MWU-BH-LOOCV,223/239
+Tumor State 2,GLM,200/239
+Tumor State 2,GLM-LOOCV,215/239
+Tumor State 2,Pseudobulk,0/239
+Tumor State 2,Pseudobulk-LOOCV,0/239
+Tumor State 4,BEANIE,2/239
+Tumor State 4,MWU-BH,180/239
+Tumor State 4,MWU-BH-LOOCV,192/239
+Tumor State 4,GLM,173/239
+Tumor State 4,GLM-LOOCV,181/239
+Tumor State 4,Pseudobulk,0/239
+Tumor State 4,Pseudobulk-LOOCV,0/239

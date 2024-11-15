@@ -1,0 +1,9 @@
+,beanie_pval,direction,robust,excluded_LUAD_9,excluded_LUAD_3,excluded_LUAD_0,excluded_LUAD_21,excluded_LUAD_4,excluded_LUAD_10,excluded_LUAD_16,excluded_LUAD_5,excluded_LUAD_7,excluded_LUAD_1,excluded_LUAD_13,excluded_LUAD_6,excluded_LUAD_2,excluded_LUAD_11,excluded_LUAD_8,excluded_LUAD_14
+alphabeta_tcell_1,0.88134,early_stage,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+alphabeta_tcell_2,0.20182,early_stage,False,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+NKT_1,0.34799,late_stage,False,0.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0
+bcell_1,0.5565899999999999,late_stage,False,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+nk_1,0.6610199999999999,early_stage,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+myeloid_1,0.8811399999999999,early_stage,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+myeloid_2,0.60974,early_stage,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+mast_2,0.70916,early_stage,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

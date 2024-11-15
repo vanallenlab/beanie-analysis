@@ -1,0 +1,25 @@
+,Tumor State,Gene Signature,BEANIE p-value,MWU-BH p-value,MWU-BH-LOOCV p-value,GLM p-value,GLM-LOOCV p-value,Pseudobulk p-value,Pseudobulk-LOOCV p-value
+0,Tumor State 1,alphabeta_tcell_1,0.8813,0.0065,0.0064,0.0005,0.0004,0.4758,0.474
+1,Tumor State 1,alphabeta_tcell_2,0.2018,0.0,0.0,0.0,0.0,0.4758,0.474
+2,Tumor State 1,NKT_1,0.348,0.0,0.0,0.5111,0.5385,0.4758,0.474
+3,Tumor State 1,bcell_1,0.5566,0.0001,0.0001,0.0509,0.0623,0.4758,0.474
+4,Tumor State 1,nk_1,0.661,0.0,0.0,0.0,0.0,0.4758,0.474
+5,Tumor State 1,myeloid_1,0.8811,0.0,0.0,0.7621,0.5961,0.4758,0.474
+6,Tumor State 1,myeloid_2,0.6097,0.002,0.0024,0.0042,0.005,0.4758,0.474
+7,Tumor State 1,mast_2,0.7092,0.0833,0.0909,0.198,0.2082,0.4758,0.474
+0,Tumor State 2,alphabeta_tcell_1,0.4506,0.0,0.0,0.0,0.0,0.5,0.4594
+1,Tumor State 2,alphabeta_tcell_2,0.9972,0.0,0.0,0.0,0.0,0.5,0.4594
+2,Tumor State 2,NKT_1,0.5643,0.0059,0.0009,0.6273,0.1483,0.5,0.4594
+3,Tumor State 2,bcell_1,0.5879,0.0,0.0,0.0,0.0,0.5,0.4594
+4,Tumor State 2,nk_1,0.5757,0.0,0.0,0.0,0.0,0.5,0.4594
+5,Tumor State 2,myeloid_1,0.3726,0.0059,0.0176,0.3131,0.0859,0.5,0.4594
+6,Tumor State 2,myeloid_2,0.9639,0.0,0.0,0.0,0.0,0.5,0.4594
+7,Tumor State 2,mast_2,0.5681,0.0,0.0001,0.0002,0.0004,0.5,0.4594
+0,Tumor State 4,alphabeta_tcell_1,0.4738,0.0001,0.0001,0.0,0.0,0.3754,0.4259
+1,Tumor State 4,alphabeta_tcell_2,0.0729,0.0,0.0,0.0,0.0,0.3006,0.3401
+2,Tumor State 4,NKT_1,0.6111,0.446,0.3154,0.2177,0.2475,0.4418,0.4338
+3,Tumor State 4,bcell_1,0.8239,0.0,0.0,0.0032,0.003,0.4418,0.4338
+4,Tumor State 4,nk_1,0.4076,0.0001,0.0002,0.0002,0.0003,0.4418,0.4338
+5,Tumor State 4,myeloid_1,0.5988,0.0343,0.0096,0.0976,0.1263,0.4418,0.4338
+6,Tumor State 4,myeloid_2,0.7032,0.0055,0.0055,0.0077,0.0077,0.4418,0.4338
+7,Tumor State 4,mast_2,0.6472,0.4639,0.2015,0.9866,0.4056,0.4418,0.4338

@@ -1,0 +1,9 @@
+,beanie_pval,direction,robust,excluded_BRCA_26,excluded_BRCA_4,excluded_BRCA_44,excluded_BRCA_24,excluded_BRCA_39,excluded_BRCA_38,excluded_BRCA_28,excluded_BRCA_14,excluded_BRCA_11,excluded_BRCA_32,excluded_BRCA_21,excluded_BRCA_22,excluded_BRCA_17,excluded_BRCA_19,excluded_BRCA_0,excluded_BRCA_9,excluded_BRCA_30,excluded_BRCA_23,excluded_BRCA_16,excluded_BRCA_6,excluded_BRCA_46,excluded_BRCA_45,excluded_BRCA_7
+alphabeta_tcell_1,0.92779,anti_PD1,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+alphabeta_tcell_2,0.8232,treatment_naive,False,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0.0,1.0
+NKT_1,0.34624,anti_PD1,False,0.0,4.0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.0,0.0,2.0,1.0,1.0,0.0,0.0,4.0,2.0
+bcell_1,0.99192,anti_PD1,False,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+nk_1,0.93366,anti_PD1,False,0.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+myeloid_1,0.4784,treatment_naive,False,2.0,0.0,1.0,0.0,0.0,0.0,0.0,3.0,13.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,0.0,0.0,1.0,1.0
+myeloid_2,0.80747,treatment_naive,False,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+mast_2,0.9498700000000001,anti_PD1,True,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

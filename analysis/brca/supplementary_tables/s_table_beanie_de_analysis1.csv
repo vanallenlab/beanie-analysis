@@ -1,0 +1,65 @@
+,Tumor State,Gene Signature,BEANIE p-value,Direction,Robustness
+22,Tumor State 1,WU_ET_AL_BASAL_SC,0.0495,Anti-PD1 treated,False
+24,Tumor State 1,WU_ET_AL_LUMA_SC,0.0083,Anti-PD1 treated,False
+25,Tumor State 1,WU_EL_AL_LUMB_SC,0.0,Anti-PD1 treated,True
+26,Tumor State 1,HALLMARK_ADIPOGENESIS,0.0197,Anti-PD1 treated,False
+28,Tumor State 1,HALLMARK_ANDROGEN_RESPONSE,0.0332,Anti-PD1 treated,False
+32,Tumor State 1,HALLMARK_APOPTOSIS,0.0025,Anti-PD1 treated,False
+40,Tumor State 1,HALLMARK_ESTROGEN_RESPONSE_EARLY,0.0007,Anti-PD1 treated,True
+41,Tumor State 1,HALLMARK_ESTROGEN_RESPONSE_LATE,0.0014,Anti-PD1 treated,False
+42,Tumor State 1,HALLMARK_FATTY_ACID_METABOLISM,0.0005,Anti-PD1 treated,True
+44,Tumor State 1,HALLMARK_GLYCOLYSIS,0.0021,Anti-PD1 treated,False
+47,Tumor State 1,HALLMARK_HYPOXIA,0.0002,Anti-PD1 treated,True
+53,Tumor State 1,HALLMARK_MITOTIC_SPINDLE,0.0349,Treatment-naive,False
+54,Tumor State 1,HALLMARK_MTORC1_SIGNALING,0.0008,Anti-PD1 treated,False
+68,Tumor State 1,HALLMARK_TNFA_SIGNALING_VIA_NFKB,0.0222,Anti-PD1 treated,False
+73,Tumor State 1,HALLMARK_XENOBIOTIC_METABOLISM,0.0016,Anti-PD1 treated,False
+79,Tumor State 1,ONCOGENIC_ALK_DN.V1_UP,0.0009,Anti-PD1 treated,False
+88,Tumor State 1,ONCOGENIC_BCAT_BILD_ET_AL_DN,0.0073,Treatment-naive,False
+103,Tumor State 1,ONCOGENIC_CAMP_UP.V1_UP,0.0182,Anti-PD1 treated,False
+105,Tumor State 1,ONCOGENIC_CRX_DN.V1_DN,0.0049,Anti-PD1 treated,False
+124,Tumor State 1,ONCOGENIC_E2F3_UP.V1_UP,0.036,Treatment-naive,False
+134,Tumor State 1,ONCOGENIC_ESC_J1_UP_LATE.V1_UP,0.0408,Anti-PD1 treated,False
+153,Tumor State 1,ONCOGENIC_IL2_UP.V1_DN,0.0395,Treatment-naive,False
+184,Tumor State 1,ONCOGENIC_LTE2_UP.V1_UP,0.0262,Treatment-naive,False
+189,Tumor State 1,ONCOGENIC_MTOR_UP.N4.V1_DN,0.0201,Treatment-naive,False
+190,Tumor State 1,ONCOGENIC_MTOR_UP.N4.V1_UP,0.0199,Anti-PD1 treated,False
+193,Tumor State 1,ONCOGENIC_MYC_UP.V1_DN,0.0324,Treatment-naive,False
+203,Tumor State 1,ONCOGENIC_P53_DN.V2_UP,0.0363,Anti-PD1 treated,False
+228,Tumor State 1,ONCOGENIC_RB_DN.V1_DN,0.0004,Anti-PD1 treated,True
+232,Tumor State 1,ONCOGENIC_RB_P130_DN.V1_DN,0.0415,Anti-PD1 treated,False
+240,Tumor State 1,ONCOGENIC_SIRNA_EIF4GI_UP,0.0303,Anti-PD1 treated,False
+253,Tumor State 1,ONCOGENIC_TBK1.DN.48HRS_DN,0.0413,Anti-PD1 treated,False
+255,Tumor State 1,ONCOGENIC_TGFB_UP.V1_DN,0.0189,Treatment-naive,False
+22,Tumor State 2,WU_ET_AL_BASAL_SC,0.0141,Anti-PD1 treated,False
+24,Tumor State 2,WU_ET_AL_LUMA_SC,0.0339,Anti-PD1 treated,False
+25,Tumor State 2,WU_EL_AL_LUMB_SC,0.0094,Anti-PD1 treated,False
+40,Tumor State 2,HALLMARK_ESTROGEN_RESPONSE_EARLY,0.0315,Anti-PD1 treated,False
+41,Tumor State 2,HALLMARK_ESTROGEN_RESPONSE_LATE,0.0028,Anti-PD1 treated,False
+47,Tumor State 2,HALLMARK_HYPOXIA,0.024,Anti-PD1 treated,False
+60,Tumor State 2,HALLMARK_P53_PATHWAY,0.0348,Anti-PD1 treated,False
+79,Tumor State 2,ONCOGENIC_ALK_DN.V1_UP,0.0102,Anti-PD1 treated,False
+104,Tumor State 2,ONCOGENIC_CORDENONSI_YAP_CONSERVED_SIGNATURE,0.0071,Anti-PD1 treated,False
+134,Tumor State 2,ONCOGENIC_ESC_J1_UP_LATE.V1_UP,0.01,Anti-PD1 treated,False
+170,Tumor State 2,ONCOGENIC_KRAS.BREAST_UP.V1_UP,0.0288,Anti-PD1 treated,False
+211,Tumor State 2,ONCOGENIC_PKCA_DN.V1_UP,0.0113,Anti-PD1 treated,False
+221,Tumor State 2,ONCOGENIC_PTEN_DN.V1_UP,0.0474,Anti-PD1 treated,False
+224,Tumor State 2,ONCOGENIC_RAF_UP.V1_DN,0.0399,Anti-PD1 treated,False
+260,Tumor State 2,ONCOGENIC_WNT_UP.V1_UP,0.0387,Anti-PD1 treated,False
+5,Tumor State 3,HALLMARK_INTERFERON_ALPHA_RESPONSE,0.0189,Treatment-naive,False
+6,Tumor State 3,HALLMARK_INTERFERON_GAMMA_RESPONSE,0.0191,Treatment-naive,False
+7,Tumor State 3,EINAV_INTERFERON_SIGNATURE_IN_CANCER,0.0154,Treatment-naive,False
+11,Tumor State 3,REACTOME_INTERFERON_SIGNALING,0.019,Treatment-naive,False
+15,Tumor State 3,WP_TYPE_II_INTERFERON_SIGNALING,0.0194,Treatment-naive,False
+18,Tumor State 3,ZHANG_INTERFERON_RESPONSE,0.0013,Treatment-naive,False
+21,Tumor State 3,PAM50,0.0449,Anti-PD1 treated,False
+23,Tumor State 3,WU_ET_AL_HER2E_SC,0.0486,Anti-PD1 treated,False
+31,Tumor State 3,HALLMARK_APICAL_SURFACE,0.0196,Anti-PD1 treated,False
+60,Tumor State 3,HALLMARK_P53_PATHWAY,0.0275,Anti-PD1 treated,False
+92,Tumor State 3,ONCOGENIC_BMI1_DN.V1_DN,0.0398,Treatment-naive,False
+151,Tumor State 3,ONCOGENIC_IL21_UP.V1_DN,0.0258,Anti-PD1 treated,False
+183,Tumor State 3,ONCOGENIC_LTE2_UP.V1_DN,0.0264,Treatment-naive,False
+185,Tumor State 3,ONCOGENIC_MEK_UP.V1_DN,0.028,Treatment-naive,False
+187,Tumor State 3,ONCOGENIC_MEL18_DN.V1_DN,0.0014,Treatment-naive,True
+205,Tumor State 3,ONCOGENIC_PDGF_ERK_DN.V1_UP,0.0468,Anti-PD1 treated,False
+215,Tumor State 3,ONCOGENIC_PRC2_EED_UP.V1_UP,0.0396,Treatment-naive,False
