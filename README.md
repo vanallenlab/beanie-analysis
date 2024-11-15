@@ -2,7 +2,7 @@
 
 ## Dissecting tumor cell programs through group biology estimation in clinical single-cell transcriptomics
 
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.10.22.465130v2.full) | [Conference Submission](https://aacrjournals.org/cancerres/article/83/7_Supplement/1120/722439/Abstract-1120-Dissecting-tumor-cell-programs)
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.10.22.465130v2.full) | [AACR Oral Presentation](https://aacrjournals.org/cancerres/article/83/7_Supplement/1120/722439/Abstract-1120-Dissecting-tumor-cell-programs)
 
 This repository contains data and code for reproducing analysis presented in the paper. To use the BEANIE method for your own analysis, please see installation instructions on [this github repo](https://github.com/vanallenlab/beanie). 
 
