@@ -2,7 +2,7 @@
 
 ## Dissecting tumor cell programs through group biology estimation in clinical single-cell transcriptomics
 
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.10.22.465130v2.full) | [AACR Oral Presentation](https://aacrjournals.org/cancerres/article/83/7_Supplement/1120/722439/Abstract-1120-Dissecting-tumor-cell-programs)
+[Nature Communications Paper](https://www.nature.com/articles/s41467-025-57377-6) | [AACR Oral Presentation](https://aacrjournals.org/cancerres/article/83/7_Supplement/1120/722439/Abstract-1120-Dissecting-tumor-cell-programs)
 
 This repository contains data and code for reproducing analysis presented in the paper. To use the BEANIE method for your own analysis, please see installation instructions on [this github repo](https://github.com/vanallenlab/beanie). 
 
@@ -43,14 +43,14 @@ beanie-analysis/
 	└── process_list_autogen.csv
 ```
 
-#### Setup Instructions
+### Setup Instructions
 To reproduce the analysis, re-create the conda environment.
 
 ```
 conda env create --file=environment.yml
 ```
 
-#### Reproducing Results
+### Reproducing Results
 
 **Simulations** : Run scripts in the following order (replace the location of seed dataset file in create_simulations.py with your own seed data to be used).
 ```
@@ -84,4 +84,4 @@ The source code is licensed under the GPL-2.0 license, which can be found under 
 
 If you find this work useful, please cite our paper -
 
->Johri S., Bi K., Titchen B., Fu J., Conway J., Crowdis J., Vokes N., Fan Z, Fong L., Park J., Liu D., He MX., Van Allen E. (2021) Dissecting tumor cellprograms through group biology estimation in clinical single cell transcriptomics. biorxiv.
+> Johri, S., Bi, K., Titchen, B.M. et al. Dissecting tumor cell programs through group biology estimation in clinical single-cell transcriptomics. Nat Commun 16, 2090 (2025). https://doi.org/10.1038/s41467-025-57377-6
